@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Group_1229" data-name="Group 1229" transform="translate(-292 -242)">
+    <g id="Ellipse_103" data-name="Ellipse 103" transform="translate(292 242)" fill="#fff" stroke="#29b72e" stroke-width="2">
+      <circle cx="14" cy="14" r="14" stroke="none"/>
+      <circle cx="14" cy="14" r="13" fill="none"/>
+    </g>
+    <text id="_" data-name="?" transform="translate(301 264)" fill="#29b72e" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">?</tspan></text>
+  </g>
+</svg>

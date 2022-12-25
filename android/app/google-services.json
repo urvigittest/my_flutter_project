@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869856516219",
+    "project_id": "practicekiya",
+    "storage_bucket": "practicekiya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869856516219:android:34fc8937b35ca87b012ade",
+        "android_client_info": {
+          "package_name": "com.practicekiya.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869856516219-dhvnufu21se38d3luifke6st0lhereqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUo4BzcxKHrHtGG067TKabtJFM4I3PXe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869856516219-dhvnufu21se38d3luifke6st0lhereqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="30.5" viewBox="0 0 24 30.5">
+  <g id="Group_762" data-name="Group 762" transform="translate(-338 -145.5)">
+    <path id="Icon_awesome-share-square" data-name="Icon awesome-share-square" d="M20.541,6.412l-5.2,4.914a.868.868,0,0,1-1.463-.63v-2.6c-5.224.035-7.428,1.269-5.954,6.191a.579.579,0,0,1-.9.626,6.955,6.955,0,0,1-2.682-5.18c0-5.2,4.249-6.233,9.539-6.262V.868a.868.868,0,0,1,1.463-.63l5.2,4.914A.867.867,0,0,1,20.541,6.412ZM13.875,13.7v2.489H2.312V4.625h1.84a.433.433,0,0,0,.312-.133A7.044,7.044,0,0,1,6.308,3.13a.433.433,0,0,0-.2-.818H1.734A1.734,1.734,0,0,0,0,4.047V16.766A1.734,1.734,0,0,0,1.734,18.5H14.453a1.734,1.734,0,0,0,1.734-1.734V13.557a.433.433,0,0,0-.579-.408,2.6,2.6,0,0,1-1.235.122A.434.434,0,0,0,13.875,13.7Z" transform="translate(340.85 145.5)" fill="#f38446"/>
+    <text id="Share" transform="translate(338 174)" fill="#f38446" font-size="8" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Share</tspan></text>
+  </g>
+</svg>
